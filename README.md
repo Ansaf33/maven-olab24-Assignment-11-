@@ -1,7 +1,7 @@
 # maven-olab24-Assignment-11-
 11th Assignment of Object Oriented Systems Lab.
 
-The Code is to be run on IntelliJ IDEA with Maven Installed. The pom.xml file should be altered in the <version> section to suit the version of java in use (preferably 21). Click the maven icon to install the dependencies and import the necessary modules.
+The Code is to be run on IntelliJ IDEA with Maven Installed. It can also be run in VSCode. The pom.xml file should be altered in the <version> section to suit the version of java in use (preferably 21). Click the maven icon to install the dependencies and import the necessary modules.
 
 The Test file is located at 'src/test/java/olab24/DOP/src/oldshelf/OldSelectionTest.java'
 
